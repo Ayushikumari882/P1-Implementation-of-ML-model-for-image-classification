@@ -37,9 +37,4 @@ Ensure you have the following installed:
 - Python (>= 3.8)
 - Required libraries (listed in `requirements.txt`)
 
-### Steps to Run
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/Implementation-of-ML-model-for-image-classification.git
-
 Start classifying images with ease while exploring the power of deep learning! 🎉
